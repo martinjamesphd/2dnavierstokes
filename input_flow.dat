@@ -1,0 +1,2 @@
+1024	10000	1.0E-3	1.0E-5	0.01	0.01	4	4	8	1	1	100
+size	iter	dt	vis	famp	mu	kf	nthr	nthr_om	flag	pflag	s_flag
